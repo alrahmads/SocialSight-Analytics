@@ -1,6 +1,6 @@
 # SocialSight Analytics
 
-**Platform Analisis Media Sosial untuk YouTube**
+**Platform Analisis Sosial Media untuk YouTube**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red)
