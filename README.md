@@ -214,4 +214,4 @@ Solusi: Cek encoding file CSV. Aplikasi akan mencoba utf-8, latin-1, dan cp1252 
 
 **Dikembangkan untuk Workshop Analisis Sosial Media** ✨
 
-Terakhir diupdate: 2025
+Terakhir diupdate: November 2025
